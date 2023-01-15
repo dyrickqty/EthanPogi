@@ -1,0 +1,11 @@
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\bin\Debug\PersonalDiary.exe.config
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\bin\Debug\PersonalDiary.exe
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\bin\Debug\PersonalDiary.pdb
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\obj\Debug\PersonalDiary.csproj.AssemblyReference.cache
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\obj\Debug\PersonalDiary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\obj\Debug\PersonalDiary.NoteTaker.resources
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\obj\Debug\PersonalDiary.Properties.Resources.resources
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\obj\Debug\PersonalDiary.csproj.GenerateResource.cache
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\obj\Debug\PersonalDiary.csproj.CoreCompileInputs.cache
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\obj\Debug\PersonalDiary.exe
+C:\Users\Maharlikans\source\repos\PersonalDiary\PersonalDiary\obj\Debug\PersonalDiary.pdb
